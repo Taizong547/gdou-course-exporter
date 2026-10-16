@@ -1,6 +1,6 @@
 # 广东海洋大学 · 正方教务课表导出（ICS + Excel + 课刻）
 
-油猴（Tampermonkey）脚本：在广东海洋大学正方教务「个人课表查询」页面一键导出——
+油猴（Tampermonkey）脚本：在广东海洋大学正方教务「个人课表查询」https://wfw.gdou.edu.cn/页面一键导出——
 
 - **ICS 日历**：导入 Google Calendar / Outlook / 手机日历，支持单双周、调课单周
 - **普通 Excel**：周视图 + 课程明细两个工作表
